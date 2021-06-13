@@ -10,6 +10,10 @@
 # THIS INSTRUCTION TO INSTALL NODE MODULES
 `cd testFilmApp-main && (npm i || yarn)`
 
+# To RUN THE PROJECT
+`cd testFilmApp-main && npm start`
+
+
 
 # GENERATE APK
 `npx react-native run-android --variant=release`
