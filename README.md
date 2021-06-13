@@ -1,4 +1,4 @@
 # testFilmApp
-RUN INSTRUCION
-`git clone https://github.com/brunojs02/react-native-movies-app.git rnmovies
+# RUN INSTRUCTION
+`git clone https://github.com/moumnimohamed/testFilmApp.git
 cd rnmovies && (npm i || yarn)`
